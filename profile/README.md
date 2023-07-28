@@ -1,4 +1,4 @@
-# [www.chesslablab.com](https://www.chesslablab.com/)
+# [ChesslaBlab](https://www.chesslablab.com/)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -9,9 +9,9 @@
 
 ![Demo](/assets/demo.png)
 
-[chesslablab.com](https://www.chesslablab.com) allows to learn and play chess online without being tracked. This is made possible because it does not use cookies of any sort and does not store information as other apps do, not even nicknames or chess games.
+[ChesslaBlab](https://www.chesslablab.com) allows to learn and play chess online without being tracked. This is made possible because it does not use cookies of any sort and does not store information as other apps do, not even nicknames or chess games.
 
-ChesslaBlab stands for chess laboratory actually.
+ChesslaBlab actually stands for chess laboratory.
 
 It is open-source, and can be used and extended by developers to create amazing chess web apps. A bunch of public chess repos ranging from React and JavaScript to PHP are available on the ChesslaBlab community on GitHub.
 
